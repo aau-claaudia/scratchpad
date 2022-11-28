@@ -158,7 +158,7 @@ def get_stacks():
         username=CONFIG['openstack']['username'],
         password=CONFIG['openstack']['password'],
         project_id=CONFIG['openstack']['project_id'],
-        project_name=CONFIG['openstack']['project_id'],
+        project_name=CONFIG['openstack']['project_name'],
         user_domain_name="default"
     )
 
