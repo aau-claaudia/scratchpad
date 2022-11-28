@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Add a config file like config-secret.ini and fill in the settings.
 
 
-### Install dependencies
+### Run script
 
 The env parameter is the name of the ini file you created.
 ```
